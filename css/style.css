@@ -1,0 +1,80 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+.banner-container{
+    background-color: #CACACC;
+    
+}
+
+
+.banner-column{
+    background-color: rgb(65, 62, 62);
+}
+.navbar-containar{
+    background-color: black;
+}
+.about-container{
+    background-color: rgb(47, 47, 194);
+}
+.education-container{
+    background-color: rgb(233, 214, 214);
+}
+.font-color{
+    color: red;
+}
+.ciricle{
+    background-color: rgb(235, 142, 142);
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+
+.Service-container{
+    background-color: rgb(58, 219, 58);
+}
+
+
+.Service-color{
+    color: white;
+}
+
+.col-md-3{
+    height: 200px;
+    width: 200px;
+}
+
+.form-container{
+    background-color: rgb(41, 38, 38);
+}
+
+.inner-form{
+    background-color: rgb(61, 58, 58);
+}
+
+.batton-hover{
+    background-color: rgb(97, 97, 230);
+
+}
+.batton-hover:hover{
+    color:white;
+}
+
+.footer{
+    background-color: rgb(22, 204, 186);
+}
+
+.ciricle2{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+  display: inline-block;
+  background-color: white;
+  font-size: 40px;
+  text-align: center;
+  color: rgb(41, 163, 10);
+}
+.ciricle2:hover{
+    background-color: black;
+}
